@@ -23,6 +23,23 @@
         <title>Jiakai&#39;s Homepage</title>
 
     </head>
+    <style>
+        .autoscroll{
+            overflow: hidden;
+            max-height: 300px;
+        }
+        .scrollnews{
+            animation: scroll 10s linear infinite;
+        }
+        @keyframes scroll {
+            0%{
+                transform:translateY(0);
+            }
+            100%{
+                transform: translateY(-100%);
+            }
+        }
+    </style>
     <body id="top">
 
 
@@ -109,56 +126,58 @@
                     <div class="col-xs-12 col-md-4 section-heading">
                         <h1>News</h1>
                     </div>
-                    <div class="col-xs-12 col-md-8">
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font color="red" size="4">[2024.01]</font></strong>
-                            <font size="4">Three paper accepted by 计算机研究与发展(Journal of Computer Research and Development), IEEE Transactions on Multimedia, and ICLR 2024</a>.</font>
-                            <p></p><p></p>
-                        </div>	
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2023.10]</font></strong>
-                            <font size="4">One paper accepted by IEEE Symposium on Security and Privacy</a>.</font>
-                            <p></p><p></p>
-                        </div>
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2023.06]</font></strong>
-                            <font size="4">Two paper accepted by IJCAI-2023 GLOW and 人工智能(AI-View)</a>.</font>
-                            <p></p><p></p>
-                        </div>
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2023.04]</font></strong>
-                            <font size="4">One paper accepted by TPAMI</a>.</font>
-                            <p></p><p></p>
-                        </div>
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2023.02]</font></strong>
-                            <font size="4">Two paper accepted by TNNLS and CVPR2023</a>.</font>
-                            <p></p><p></p>
-                        </div>  
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2023.01]</font></strong>
-                            <font size="4">Three paper accepted by 智能安全, Pattern Recognition, and USENIX Security Symposium</a>.</font>
-                            <p></p><p></p>
-                        </div>
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2022.08]</font></strong>
-                            <font size="4">One paper accepted by ACM CCS 2022</a>.</font>
-                            <p></p><p></p>
-                        </div>
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2022.07]</font></strong>
-                            <font size="4">One paper accepted by ACM MM 2022</a>.</font>
-                            <p></p><p></p>
-                        </div>
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2022.07]</font></strong>
-                            <font size="4">✊✊✊I joined in Zhongguancun Laboratory✊✊✊</a>!!!</font>
-                            <p></p><p></p>
-                        </div>
-                        <div class="article-list-item" itemscope itemprop="blogPost">
-                            <strong><font size="4">[2022.06]</font></strong>
-                            <font size="4">😊😊😊I obtained my Ph.D degree😊😊😊</a>!!!</font>
-                            <p></p><p></p>
+                    <div class="col-xs-12 col-md-8 autoscroll">
+                        <div class="scrollnews">
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font color="red" size="4">[2024.01]</font></strong>
+                                <font size="4">Three paper accepted by 计算机研究与发展(Journal of Computer Research and Development), IEEE Transactions on Multimedia, and ICLR 2024</a>.</font>
+                                <p></p><p></p>
+                            </div>	
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2023.10]</font></strong>
+                                <font size="4">One paper accepted by IEEE Symposium on Security and Privacy</a>.</font>
+                                <p></p><p></p>
+                            </div>
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2023.06]</font></strong>
+                                <font size="4">Two paper accepted by IJCAI-2023 GLOW and 人工智能(AI-View)</a>.</font>
+                                <p></p><p></p>
+                            </div>
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2023.04]</font></strong>
+                                <font size="4">One paper accepted by TPAMI</a>.</font>
+                                <p></p><p></p>
+                            </div>
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2023.02]</font></strong>
+                                <font size="4">Two paper accepted by TNNLS and CVPR2023</a>.</font>
+                                <p></p><p></p>
+                            </div>  
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2023.01]</font></strong>
+                                <font size="4">Three paper accepted by 智能安全, Pattern Recognition, and USENIX Security Symposium</a>.</font>
+                                <p></p><p></p>
+                            </div>
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2022.08]</font></strong>
+                                <font size="4">One paper accepted by ACM CCS 2022</a>.</font>
+                                <p></p><p></p>
+                            </div>
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2022.07]</font></strong>
+                                <font size="4">One paper accepted by ACM MM 2022</a>.</font>
+                                <p></p><p></p>
+                            </div>
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2022.07]</font></strong>
+                                <font size="4">✊✊✊I joined in Zhongguancun Laboratory✊✊✊</a>!!!</font>
+                                <p></p><p></p>
+                            </div>
+                            <div class="article-list-item" itemscope itemprop="blogPost">
+                                <strong><font size="4">[2022.06]</font></strong>
+                                <font size="4">😊😊😊I obtained my Ph.D degree😊😊😊</a>!!!</font>
+                                <p></p><p></p>
+                            </div>
                         </div>
                     </div>
                 </div>
