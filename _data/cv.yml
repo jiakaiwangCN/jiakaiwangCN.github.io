@@ -2,59 +2,56 @@
   type: map
   contents:
     - name: Full Name
-      value: Dhruv Kumar
+      value: Jiakai Wang
     - name: Date of Birth
-      value: 11th Jan 1994
+      value: 16th Aug 1995
     - name: Languages
-      value: English, Hindi
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
-      institution: University of Minnesota, Twin Cities, USA
-      year: 2022
+    - title: PhD in Software Engineering
+      institution: Beihang University, Beijing, China
+      year: 2018 - 2022
       description:
-        - "CGPA: 4.0/4.0"
+        - "Outstanding Graduates"
+        - "National Scholarship"
+        - "Merit Student"
+        - "Excellent Student Cadre"
       #   - Description 2.
       #   - title: Description 3.
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: B.E. (Honors) in Computer Science
-      institution: BITS, Pilani
-      year: 2014
+    - title: B.E. in Computer Science and Engineering
+      institution: Beihang University
+      year: 2014 - 2018
       description:
-        - "CGPA: 9.92/10.0"
-        - Rank 1 in the Computer Science Department (1/150)
-        - Rank 4 in the entire graduating class of 2014 (4/850)
+        - "Outstanding Graduates"
+        - "Merit Student"
+        - "Excellent Student Cadre"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Professor
-      institution: IIIT Delhi
-      year: 2022 - present
-      description:
-        - Teaching operating systems, distributed systems, cloud computing
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    - title: Post-Doctoral Researcher
-      institution: Microsoft Research, Bengaluru
-      year: 2022
+    - title: Associate Professor
+      institution: Zhongguancun Laboratory
+      year: 2024 - present
+      # description:
+      #   - Teaching operating systems, distributed systems, cloud computing
+      #   # - title: Description 3.
+      #   #   contents:
+      #   #     - Sub-description 1.
+      #   #     - Sub-description 2.
+    - title: Assistant Researcher
+      institution: Zhongguancun Laboratory
+      year: 2022 - 2024
       # description:
       #   - Description 1.
       #   - Description 2.
 
-    - title: PhD Intern
-      institution: Google Cloud, Sunnyvale
-      year: 2019
-
-    - title: Software Engineer and Quantative Analyst
-      institution: Goldman Sachs, Bengaluru
-      year: 2014-2016
+    
 
 # - title: Open Source Projects
 #   type: time_table

@@ -13,11 +13,6 @@ nav_order: 4
 <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
   <table class="table table-sm table-borderless">
   {%- assign news = site.news | reverse -%}
-  <!-- {% if site.news_limit %}
-  {% assign news_limit = site.news_limit %}
-  {% else %} -->
-  <!-- {% assign news_limit = news_size %} -->
-  <!-- {% endif %} -->
   {% for item in news limit: news_size %} 
     <tr>
       <th scope="row" class="col-md-2">{{ item.date | date: "%b %-d, %Y" }}</th>

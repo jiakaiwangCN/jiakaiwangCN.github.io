@@ -4,13 +4,13 @@ title: About
 permalink: /
 subtitle: 
   <b> &#x2022; </b> <b>Associate researcher at </b> <a>Zhongguancun Laboratory</a> 
-    
+  <br>
   <b> &#x2022; </b> <b>PhD and BSc</b> from <a href="https://www.buaa.edu.cn/">Beihang University</a>
 
 profile:
   align: right
   image: profile.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Haidian Distinct</p>
     <p>Beijing</p>
