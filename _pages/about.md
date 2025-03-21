@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: 
-  <b> &#x2022; </b> <b>Associate researcher at </b> <a>Zhongguancun Laboratory</a> &#x2022; <br/> 
+  <b> &#x2022; </b> <b>Associate researcher at </b> <a>Zhongguancun Laboratory</a><br><br/> &#x2022;  
   <b>PhD and BSc</b> from <a href="https://www.buaa.edu.cn/">Beihang University</a>
 
 profile:
