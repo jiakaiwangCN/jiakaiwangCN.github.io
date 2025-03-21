@@ -17,11 +17,8 @@ footer_text: >
 keywords: Nothing to Say.  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-<<<<<<< HEAD
 icon: /assets/img/favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-=======
-icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
->>>>>>> parent of e2c7af4 (add details(delete dropdown and press)
+
 
 url: https://jiakaiwangCN.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
