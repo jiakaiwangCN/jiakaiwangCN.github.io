@@ -1,18 +1,8 @@
 ---
 layout: post
-title: Five UG students selected for CHANAKYA UG Fellowship 2023.
-date: 2023-10-04 10:00:00
+# title: Five UG students selected for CHANAKYA UG Fellowship 2023.
+date: 2024-04 10:00:00
 inline: false
 related_posts: false
 ---
-
-Five senior year UG students from my research group have been selected for <a href="https://ihub-anubhuti-iiitd.org/fellowship.html">CHANAKYA UG Fellowship 2023</a> offered by <a href="https://ihub-anubhuti-iiitd.org/">iHub Anubhuti IIITD Foundation</a>.
-
-#### Student Names
-<ul>
-    <li>Bhagesh Gaur (2020 Batch)</li>
-    <li>Madhava Krishna (2020 Batch)</li>
-    <li>Aryaman Raina (2020 Batch)</li>
-    <li>Prateek Mishra (2020 Batch)</li>
-    <li>Harshit Goyal (2020 Batch)</li>
-</ul>
+I organize the special issue about ''<a href="https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z">Trustworthy Deep Learning in Practice</a>'' on Electronics.

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-13 12:00:00-0400
+date: 2024-01 12:00:00-0400
 inline: true
 ---
 
-Preprint released for our paper titled <a href="https://arxiv.org/abs/2312.07343">"Can ChatGPT Play the Role of a Teaching Assistant in an Introductory Programming Course?"</a>
+Three papers are accepted by 计算机研究与发展(Journal of Computer Research and Development), IEEE TMM, and ICLR 2024.
