@@ -1,8 +1,6 @@
 ---
 layout: post
-# title: Five UG students selected for CHANAKYA UG Fellowship 2023.
 date: 2024-04 10:00:00
 inline: false
-related_posts: false
 ---
 I organize the special issue about ''<a href="https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z">Trustworthy Deep Learning in Practice</a>'' on Electronics.
