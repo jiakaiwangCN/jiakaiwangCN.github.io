@@ -28,19 +28,19 @@ nav_order: 3
 
 **Reviewer:** NeurIPS, ICCV, ACM MM, IJCAI, CVPR, AAAI, IEEE TIP, ICME, Pattern Recognition.
 
-**Chair:** [The 3rd Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness](https://robustart.github.io/), [The 2nd Workshop of Practical Deep Learning in the Wild](https://practical-dl.github.io/).
+**Chair:** <b class="super_emphasis">[The 3rd Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness](https://robustart.github.io/)</b>, <b class="super_emphasis">[The 2nd Workshop of Practical Deep Learning in the Wild](https://practical-dl.github.io/)</b>.
 
 #### [2022]
 
 **Reviewer:** NeurIPS, ACM MM, ECCV, CVPR.
 
-**Chair:** [The Art of Robustness: Devil and Angel in Adversarial Machine Learning](https://robustart.github.io/).
+**Chair:** <b class="super_emphasis">[The Art of Robustness: Devil and Angel in Adversarial Machine Learning](https://robustart.github.io/)</b>.
 
 #### [2021]
 
 **Reviewer:** ACM MM, Pattern Recognition, IET Image Processing.
 
-**Chair:** [The Forum on Safety and Privacy for Multimedia Systems](https://conf.ccf.org.cn/web/html7/TYMB.html?channelId=8a9e362c7b9bc357017ba11235630029&superChannel=8a9e362c7b9bc357017ba0fae29f0017&globalId=m8341723535535022081618923787260).
+**Chair:** <b class="super_emphasis">[The Forum on Safety and Privacy for Multimedia Systems](https://conf.ccf.org.cn/web/html7/TYMB.html?channelId=8a9e362c7b9bc357017ba11235630029&superChannel=8a9e362c7b9bc357017ba0fae29f0017&globalId=m8341723535535022081618923787260)</b>.
 
 ---
 
