@@ -8,7 +8,7 @@ subtitle:
   <b> &#x2022; </b> <b>PhD and BSc</b> from <a href="https://www.buaa.edu.cn/">Beihang University</a>
 
 profile:
-  align: right
+  align: center
   image: profile.png
   image_circular: true # crops the image to make it circular
   address: >
@@ -19,6 +19,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+background: '/assets/img/al-folio-preview.png'
 ---
 
 
