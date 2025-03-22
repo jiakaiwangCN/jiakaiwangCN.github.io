@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jiakai Wang
     - name: Date of Birth
-      value: 16th Aug 1995
+      value: Aug 1995
     - name: Languages
       value: Chinese, English
 
@@ -19,11 +19,6 @@
         - "National Scholarship"
         - "Merit Student"
         - "Excellent Student Cadre"
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
     - title: B.E. in Computer Science and Engineering
       institution: Beihang University
       year: 2014 - 2018
