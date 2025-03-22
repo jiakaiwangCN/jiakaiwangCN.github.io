@@ -1,5 +1,9 @@
 
           <div class="publications">
             <!-- {% bibliography -f papers -q @*[selected=true]* %} -->
-            {% bibliography -f papers --sort_by year,month --order descending -q @*[selected=true]* %}
+            <!-- {% bibliography -f papers --sort_by year,month --order descending -q @*[selected=true]* %} -->
+            {%- for y in page.years %}
+              <h2 class="year">{{y}}</h2>
+               {% bibliography -f papers -q @*[year={{y}},selected=true]* %}
+            {% endfor %}
           </div>
