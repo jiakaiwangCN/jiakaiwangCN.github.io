@@ -7,7 +7,7 @@ subtitle: <b> &#x2022; </b> <b>Associate researcher at </b> <a>Zhongguancun Labo
   <b> &#x2022; </b> <b>PhD and BSc</b> from <a href="https://www.buaa.edu.cn/">Beihang University</a>
 
 profile:
-  align: center
+  align: left
   image: profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
