@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p> I am now a Research Scientist, Associate researcher(副研究员), in <strong>Zhongguancun Laboratory</strong>, Beijing, China. I received the Ph.D. degree in 2022 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Summa Cum Laude</i>), supervised by Prof. <a href="http://sites.nlsde.buaa.edu.cn/~liwei/">Wei Li</a> and Prof. <a href="https://xlliu-beihang.github.io/">Xianglong Liu</a>. Before that, I obtained my BSc degree in 2018 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Summa Cum Laude</i>).
+<p> I am now a Research Scientist, Associate researcher(副研究员), in <strong>Zhongguancun Laboratory</strong>, Beijing, China. I received the Ph.D. degree in 2022 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Summa Cum Laude</i>), supervised by Prof. <a href="https://www.buaa.edu.cn/info/1028/1573.htm">Wei Li</a> and Prof. <a href="https://xlliu-beihang.github.io/">Xianglong Liu</a>. Before that, I obtained my BSc degree in 2018 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Summa Cum Laude</i>).
 
 <p> My research interest is <strong>Trustworthy AI</strong> in <strong>Multimodal (Computer Vision mainly)</strong>, which consists of the physical adversarial examples generation, adversarial defense and evaluation <a href='https://scholar.google.com/citations?user=RoFr1qcAAAAJ'><img src="https://img.shields.io/badge/scholar-1200+-4285F4?logo=googlescholar&labelColor=beige"></a>. I hold the review that physical adversarial attacks and defenses can powerfully promote the development of secure and robust artificial intelligence, leading to a healthier future society.</p>
                    
