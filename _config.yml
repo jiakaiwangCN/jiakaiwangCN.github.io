@@ -6,7 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jiakai
 middle_name: 
 last_name: Wang
-email: wangjk@zgclab.edu.cn
 contact_note: >
   The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
