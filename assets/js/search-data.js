@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-academic-service",
+          title: "Academic Service",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/academic_service/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
@@ -30,26 +37,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "nav-people",
           title: "people",
@@ -429,16 +429,50 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-one-paper-is-accepted-by-ieee-tpami",
+          title: 'One paper is accepted by IEEE TPAMI.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-two-papers-are-accepted-by-ijcai-2023-glow-and-人工智能-ai-view",
+          title: 'Two papers are accepted by IJCAI-2023 GLOW and 人工智能(AI-View).',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-is-accepted-by-ieee-symposium-on-security-and-privacy-ieee-s-amp-amp-p",
+          title: 'One paper is accepted by IEEE Symposium on Security and Privacy (IEEE S&amp;amp;amp;P)....',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-网络空间安全科学学报",
+          title: 'One paper is accepted by 网络空间安全科学学报.',
+          description: "",
+          section: "News",},{id: "news-three-papers-are-accepted-by-计算机研究与发展-journal-of-computer-research-and-development-ieee-tmm-and-iclr-2024",
+          title: 'Three papers are accepted by 计算机研究与发展(Journal of Computer Research and Development), IEEE TMM,...',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-cvpr-2024",
+          title: 'One paper is accepted by CVPR 2024.',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-ieee-tip",
+          title: 'One paper is accepted by IEEE TIP.',
+          description: "",
+          section: "News",},{id: "news-i-organize-the-special-issue-about-trustworthy-deep-learning-in-practice-on-electronics",
+          title: 'I organize the special issue about ‘‘Trustworthy Deep Learning in Practice’’ on Electronics....',
+          description: "",
+          section: "News",},{id: "news-two-papers-are-accepted-by-ijcai-2024-and-ijcv",
+          title: 'Two papers are accepted by IJCAI 2024 and IJCV.',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-transactions-on-information-forensics-amp-amp-security-tifs",
+          title: 'One paper is accepted by Transactions on Information Forensics &amp;amp;amp; Security (TIFS).',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-the-annual-conference-on-neural-information-processing-systems-neurips-2024",
+          title: 'One paper is accepted by the Annual Conference on Neural Information Processing Systems...',
+          description: "",
+          section: "News",},{id: "news-i-was-invited-as-an-editorial-board-member-of-computing-and-artificial-intelligence-cai-i-will-try-my-best-to-contribute-to-this-publication",
+          title: 'I was invited as an Editorial Board Member of Computing and Artificial Intelligence...',
+          description: "",
+          section: "News",},{id: "news-two-papers-are-accepted-by-the-ijcv-and-icassp-2025",
+          title: 'Two papers are accepted by the IJCV and ICASSP 2025.',
+          description: "",
+          section: "News",},{id: "news-two-papers-are-accepted-by-the-iclr-2025-and-the-web-conference-www-2025-oral",
+          title: 'Two papers are accepted by the ICLR 2025 and The Web Conference(WWW) 2025...',
+          description: "",
+          section: "News",},{id: "news-two-papers-are-accepted-by-the-ieee-tmm-and-ieee-tifs",
+          title: 'Two papers are accepted by the IEEE TMM and IEEE TIFS.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -490,35 +524,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%77%61%6E%67%6A%6B@%7A%67%63%6C%61%62.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0001-5884-3412", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=RoFr1qcAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
