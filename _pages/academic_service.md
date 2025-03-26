@@ -4,7 +4,7 @@ permalink: /academic_service/
 title: Academic Service
 description: 
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 #### [2025]
