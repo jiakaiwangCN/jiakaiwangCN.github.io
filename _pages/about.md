@@ -11,9 +11,7 @@ profile:
   image: profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Haidian Distinct</p>
-    <p>Beijing</p>
-    <p>China - 100191</p>
+    <p>大人不华,君子务实</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
