@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academic_service/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-statement-renshuai-tao",
         
@@ -70,15 +70,103 @@ ninja.data = [{
             window.location.href = "/blog/2024/midAug/";
           
         },
+      },{id: "post-敕勒感怀",
+        
+          title: "敕勒感怀",
+        
+        description: "作于《敕勒歌》播放时",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/chile/";
+          
+        },
+      },{id: "post-清平乐",
+        
+          title: "清平乐",
+        
+        description: "作于周末",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/fo/";
+          
+        },
+      },{id: "post-菩萨蛮",
+        
+          title: "菩萨蛮",
+        
+        description: "NA",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/wen/";
+          
+        },
+      },{id: "post-金缕曲",
+        
+          title: "金缕曲",
+        
+        description: "作于仲夏",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/midAug-copy/";
+          
+        },
+      },{id: "post-春日",
+        
+          title: "春日",
+        
+        description: "作于某春天",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/spring/";
+          
+        },
+      },{id: "post-冬夜见雪",
+        
+          title: "冬夜见雪",
+        
+        description: "作于某雪夜",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/snow/";
+          
+        },
+      },{id: "post-随意想",
+        
+          title: "随意想",
+        
+        description: "作于半夜",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/random/";
+          
+        },
       },{id: "post-vscode安装指南-vscode权威指南pdf下载-csdn博客",
         
           title: 'VSCode安装指南_vscode权威指南pdf下载-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "文章浏览阅读739次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友_vscode权威指南pdf下载",
+        description: "文章浏览阅读741次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友_vscode权威指南pdf下载",
         section: "Posts",
         handler: () => {
           
             window.open("https://blog.csdn.net/buaa1406/article/details/106125011?spm=1001.2014.3001.5502", "_blank");
+          
+        },
+      },{id: "post-慎",
+        
+          title: "慎",
+        
+        description: "作于发癫的夜晚",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/forget/";
           
         },
       },{id: "post-win10环境下安装pytorch踩坑实录-pytorch-libc10-so-csdn博客",
