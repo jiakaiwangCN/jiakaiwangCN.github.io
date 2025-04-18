@@ -9,7 +9,9 @@ nav_order: 2
 
 #### [2025]
 
-**Reviewer:** TDSC，CVPR，ICCV.
+**Area Chair:** [NeurIPS](https://neurips.cc/).
+
+**Reviewer:** TDSC，CVPR，ICCV, TIFS.
 
 **Chair:** [The 5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X](https://cvpr25-advml.github.io/).
 
