@@ -124,13 +124,26 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: RST Blog
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-
+      - url: https://rstao-bjtu.github.io/Statement/
+        published_date: 2025-04-02
+  - name: CSDN Blog
+    posts:
+      - url: https://blog.csdn.net/buaa1406/article/details/106125011?spm=1001.2014.3001.5502
+        published_date: 2020-05-04
+      - url: https://blog.csdn.net/buaa1406/article/details/56666239?spm=1001.2014.3001.5502
+        published_date: 2017-02-23
+      - url: https://blog.csdn.net/buaa1406/article/details/52614461?spm=1001.2014.3001.5502
+        published_date: 2016-09-21
+      - url: https://blog.csdn.net/buaa1406/article/details/56666397?spm=1001.2014.3001.5502
+        published_date: 2017-02-23
+      - url: https://blog.csdn.net/buaa1406/article/details/56667985?spm=1001.2014.3001.5502
+        published_date: 2017-02-23
+      - url: https://blog.csdn.net/buaa1406/article/details/52749906?spm=1001.2014.3001.5502
+        published_date: 2016-10-07
+      - url: https://blog.csdn.net/buaa1406/article/details/83104158?spm=1001.2014.3001.5502
+        published_date: 2018-10-17
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
