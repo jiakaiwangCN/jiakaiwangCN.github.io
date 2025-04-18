@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html><body> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>      摘要生成于
+       C知道 
+      ，由 DeepSeek-R1 满血版支持，
+       前往体验 &gt;关系代数中的基本运算包括并，差，笛卡尔积，选择，投影。这五种基本代数运算可以推导出交、连接（包括自然连接）、和除法。其中前两者比较容易推导，直接根据定义不难得出，而除法定义理解起来较为复杂，且同时牵涉行与列的运算，因此较难推导。下面给出推导方式：首先给出除法的定义：  老师PPT中的定义：  设关系R（X，Y）与关系S（Z），其中Y和Z具有相同的属性数，且对应属性出自相同域。关系R除以关系S所得的商关系是关系R在属性X上的投影的一个子集，该子集和S（Z）的笛卡尔积必须包含在R（X，Y）中。  课本的定义：  设关系R除以关系S所得的结果为关系T，则T包含所有在关系R中但不在关系S中的属性及其值，且T的元组于与S的元组的所有组合都在R中。（象集的定义略，但很重要，自行观看）由于PPT的定义中没有考虑关系S可能只是存在和R中属性部分相同的情况（但事实上，是可以计算的，只需要排除无关的属性），因此我们不妨参照课本定义，R是形如R（X，Y）的关系，而S是形如S（Y，Z）的关系（这里需要指出，关系S中参与除法运算的属性应是Y），同时定义所得商关系为T，下面我们来进行梳理；首先，我们直观的理解，R 
+</code></pre></div></div> <p>÷ \divS就是： 在R中寻找那些与</p> <p>∏Y(S) {\prod}_Y(S)中的所有元组都有关系的</p> <p>∏X(R) {\prod}_X(R) 的子集（或者说元组）。 注：实例分析请见参考内容1显然由于关系T是关系R在属性X上的投影的子集，因此一定考虑到列计算，也就是投影运算，而关系T与</p> <p>∏Y(S) {\prod}_Y(S)（记为S（Y））的笛卡尔积包含于R（X，Y）中，这意味着我们需要用到笛卡尔积运算，除此之外，我们暂且无法看出还需要进行什么运算。要用基本运算表示除法，我们理所当然的根据上面的分析，先求出</p> <p>∏X(R) {\prod}_X(R) 、</p> <p>∏Y(S) {\prod}_Y(S)两项，而由于最终得到的结果T是这两个关系的笛卡尔积的子集，因此我们不妨先做笛卡尔积，得到</p> <p>∏X(R)×∏Y(S) {\prod}_X(R)\times{\prod}_Y(S)，不妨记作</p> <p>R′ R^{‘}（形如</p> <p>R′ R^{‘}（X，Y）），而定义指出，关系T是那些包含在关系R中但不在S中的属性及其值（也就是说，T是一个形如T（X）的关系），另外，我们注意到关系T和S（Y）的笛卡尔积必须包含在关系R中，因而，此时我们需要做的事情是找到那些是</p> <p>∏X(R) {\prod}_X(R)的子集但与S（Y）的笛卡尔积不包含于关系R的</p> <p>R′ R^{‘}的元组，从而得到</p> <p>R′−R R^{‘}{-}R，记为</p> <p>R′′ R^{‘’}，此时我们距离得到正确结果只有一步之遥。显然，</p> <p>R′′ R^{‘‘}在X上的投影是包含于R在X上的投影的，但他们确实无法通过与S（Y）做笛卡尔积得到包含于关系R的的关系，那么R在X上的投影在刨除了这些元组后得到的关系当然是符合定义要求的关系T了，从而我们得到最后的表达式：</p> <p>R÷S=∏X(R)−∏X(∏X(R)×∏Y(S)−R) R\div{S} = {\prod}_X(R) - {\prod}_X \left( {\prod}_X(R) \times {\prod}_Y(S) - R \right)推导到这里就结束了，希望大家有所收获。参考1：关于实例分析 参考2：关于除法理解</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>      立减 ¥
+      
+    
+            
+              博客等级
+            
+              
+          
+                besslbjwl: 
+                好久了，，，我忘了怎么弄的了，，现在不经常用vs了，用pycharm
+            
+                BILLYLW: 
+                我也有同样的问题，请问解决了吗？[code=python]Microsoft Visual C++ Redistributable is not installed, this may lead to the DLL load failure.
+             It can be downloaded at https://aka.ms/vs/16/release/vc_redist.x64.exe
+</code></pre></div></div> <p>[/code]</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                besslbjwl: 
+                你好，请问一下我装完pytorch之后，vs2015打不开了是怎么回事啊？
+            
+                buaa0110
+                 回复 
+                祺云:  版本问题，更新一下应该就可
+            
+                buaa0110
+                 回复 
+                numericaaa:  正解
+            请填写红包祝福语或标题红包个数最小为10个红包金额最低5元抵扣说明： 1.余额是钱包充值的虚拟货币，按照1:1的比例进行支付金额的抵扣。 2.余额无法直接购买下载，可以购买VIP、付费专栏及课程。
+</code></pre></div></div> </body></html>
