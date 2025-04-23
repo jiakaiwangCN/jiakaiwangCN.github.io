@@ -37,12 +37,10 @@
     - title: Associate Researcher
       institution: Zhongguancun Laboratory
       year: 2024 - present
-      # description:
-      #   - Teaching operating systems, distributed systems, cloud computing
-      #   # - title: Description 3.
-      #   #   contents:
-      #   #     - Sub-description 1.
-      #   #     - Sub-description 2.
+      description:
+        - "Exemplary Individual (2024)"
+        - "Outstanding Contribution Team (2024)"
+        - "Excellent Journal Paper in 智能安全 (Artificial Intelligence Security, top 10 papers since its publication)"
     - title: Assistant Researcher
       institution: Zhongguancun Laboratory
       year: 2022 - 2024
