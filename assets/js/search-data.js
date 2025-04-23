@@ -151,7 +151,7 @@ ninja.data = [{
         
           title: 'VSCode安装指南_vscode权威指南pdf下载-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "文章浏览阅读741次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友_vscode权威指南pdf下载",
+        description: "文章浏览阅读745次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友_vscode权威指南pdf下载",
         section: "Posts",
         handler: () => {
           
@@ -195,7 +195,7 @@ ninja.data = [{
         
           title: '基于扩展C0文法的编译器设计（Part2）_四元式assign,addi,imul等等-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "文章浏览阅读4.1k次。2．类/方法/函数功能词法分析部分：                    函数名            功能                    Int isSpace（）等            判断相关字符种类                             void getch（）            读取一个字符_四元式assign,addi,imul等等",
+        description: "文章浏览阅读4.2k次。2．类/方法/函数功能词法分析部分：                    函数名            功能                    Int isSpace（）等            判断相关字符种类                             void getch（）            读取一个字符_四元式assign,addi,imul等等",
         section: "Posts",
         handler: () => {
           
@@ -279,11 +279,23 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-are-accepted-by-the-ijcv-and-icassp-2025",
           title: 'Two papers are accepted by the IJCV and ICASSP 2025.',
           description: "",
+          section: "News",},{id: "news-our-textbook-人工智能安全导论-introduction-to-ai-security-has-been-published-available-on-jd-and-taobao",
+          title: 'Our textbook 人工智能安全导论 (Introduction to AI Security) has been published. Available on JD...',
+          description: "",
           section: "News",},{id: "news-two-papers-are-accepted-by-the-iclr-2025-and-the-web-conference-www-2025-oral",
           title: 'Two papers are accepted by the ICLR 2025 and The Web Conference(WWW) 2025...',
           description: "",
           section: "News",},{id: "news-two-papers-are-accepted-by-the-ieee-tmm-and-ieee-tifs",
           title: 'Two papers are accepted by the IEEE TMM and IEEE TIFS.',
+          description: "",
+          section: "News",},{id: "news-i-serve-as-the-organizer-of-the-5th-workshop-of-adversarial-machine-learning-on-computer-vision-foundation-models-x-please-submit-your-papers-and-participate-the-challenge-to-win-prizes",
+          title: 'I serve as the Organizer of The 5th Workshop of Adversarial Machine Learning...',
+          description: "",
+          section: "News",},{id: "news-i-an-invited-as-the-area-chair-of-neurips-a-new-exciting-experience-for-me",
+          title: 'I an invited as the Area Chair of NeurIPS! A new, exciting experience...',
+          description: "",
+          section: "News",},{id: "news-i-serve-as-the-organizer-of-the-4th-workshop-on-practical-deep-learning-practical-dl-2025-please-submit-your-papers",
+          title: 'I serve as the Organizer of the 4th Workshop on Practical Deep Learning...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
