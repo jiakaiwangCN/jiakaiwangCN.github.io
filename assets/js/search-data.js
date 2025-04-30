@@ -151,7 +151,7 @@ ninja.data = [{
         
           title: 'VSCode安装指南-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "文章浏览阅读756次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友",
+        description: "文章浏览阅读757次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友",
         section: "Posts",
         handler: () => {
           
