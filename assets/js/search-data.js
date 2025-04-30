@@ -151,7 +151,7 @@ ninja.data = [{
         
           title: 'VSCode安装指南-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "文章浏览阅读758次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友",
+        description: "文章浏览阅读760次。VSCode安装指南这是一篇傻瓜式的VSCode安装指南，还包括如何安装Python扩展工具，使其可以运行Python，多图预警！~~VSCode简介VSCode全称是Visual Studio Code，是由Microsoft出品的新一代编辑器，同时丰富的扩展使得VSCode可以做到IDE能做的事情。下载VSCode安装包点击这个VSCode下载安装文件，如下图：下载的安装包文件如下图：安装VSCode按照下图的流程安装这里可以选择自定义安装位置注意，这里的最好选上，对新手友",
         section: "Posts",
         handler: () => {
           
@@ -184,18 +184,18 @@ ninja.data = [{
         
           title: '基于扩展C0文法的编译器设计（Part3）-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "文章浏览阅读5.5k次，点赞3次，收藏2次。代码main.cpp#include #include #include #include #include #include &quot;asm.cpp&quot;#define after_switch 1using namespace std ;int main(){    string fileNam",
+        description: "文章浏览阅读5.5k次，点赞3次，收藏2次。代码main.cpp#include #include #include #include #include #include &quot;asm.cpp&quot;#define after_switch 1using namespace std ;int main(){    string fileNam_c0文法",
         section: "Posts",
         handler: () => {
           
             window.open("https://blog.csdn.net/buaa1406/article/details/56667985?spm=1001.2014.3001.5502", "_blank");
           
         },
-      },{id: "post-基于扩展c0文法的编译器设计-part2-csdn博客",
+      },{id: "post-基于扩展c0文法的编译器设计-part2-四元式assign-addi-imul等等-csdn博客",
         
-          title: '基于扩展C0文法的编译器设计（Part2）-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '基于扩展C0文法的编译器设计（Part2）_四元式assign,addi,imul等等-CSDN博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "文章浏览阅读4.2k次。2．类/方法/函数功能词法分析部分：                    函数名            功能                    Int isSpace（）等            判断相关字符种类                             void getch（）            读取一个字符",
+        description: "文章浏览阅读4.2k次。2．类/方法/函数功能词法分析部分：                    函数名            功能                    Int isSpace（）等            判断相关字符种类                             void getch（）            读取一个字符_四元式assign,addi,imul等等",
         section: "Posts",
         handler: () => {
           
