@@ -37,15 +37,37 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-statement-renshuai-tao",
+        },{id: "post-不如梦令-其二",
         
-          title: 'Statement | Renshuai Tao <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "不如梦令（其二）",
         
-        description: "Materials for courses you taught. Replace this text with your description.",
+        description: "自我反思",
         section: "Posts",
         handler: () => {
           
-            window.open("https://rstao-bjtu.github.io/Statement/", "_blank");
+            window.location.href = "/blog/2025/rumengling2/";
+          
+        },
+      },{id: "post-不如梦令-其一",
+        
+          title: "不如梦令（其一）",
+        
+        description: "自我反思",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/rumengling1/";
+          
+        },
+      },{id: "post-临江仙-赠小熊",
+        
+          title: "临江仙(赠小熊)",
+        
+        description: "玩笑",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/linjiangxian/";
           
         },
       },{id: "post-朝阳",
@@ -222,6 +244,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-is-accepted-by-ijcai-2025",
           title: 'One paper is accepted by IJCAI 2025.',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-acl-2025",
+          title: 'One paper is accepted by ACL 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
