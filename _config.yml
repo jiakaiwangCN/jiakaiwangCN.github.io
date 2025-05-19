@@ -124,10 +124,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: RST Blog
-    posts:
-      - url: https://rstao-bjtu.github.io/Statement/
-        published_date: 2025-04-02
+  # - name: RST Blog
+  #   posts:
+  #     - url: https://rstao-bjtu.github.io/Statement/
+  #       published_date: 2025-04-02
   # - name: CSDN Blog
   #   posts:
   #     - url: https://blog.csdn.net/buaa1406/article/details/106125011?spm=1001.2014.3001.5502
