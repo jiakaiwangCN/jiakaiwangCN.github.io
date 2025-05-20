@@ -119,7 +119,7 @@ nav_order: 3
         <br/>
         <font>Jiachen Xu</font><br/> 
         Co-supervised 2025~<br/>
-        Adversarial patch detection<br/>　　　　
+        Adversarial patch detection
       </center>
     </td>
   </tr>
@@ -172,7 +172,7 @@ nav_order: 3
         <br/>
         <font>Haodong Liu</font><br/> 
         2024.04~2025.06<br/>
-        Academy of Military Science
+        Academy of Military Science<br/>　　　　
       </center>
     </td>
     <td  width="25%" align="center">

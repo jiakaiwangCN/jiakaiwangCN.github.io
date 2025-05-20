@@ -73,6 +73,7 @@ module Jekyll
         citation_count = "N/A"
 
         # Print the error message including the exception class and message
+        puts "description #{description_meta} and #{matches}"
         puts "Error fetching citation count for #{article_id} in #{article_url}: #{e.class} - #{e.message}"
       end
 
