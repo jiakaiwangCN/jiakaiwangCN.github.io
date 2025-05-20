@@ -168,8 +168,6 @@ nav_order: 3
         Nanyang Technological University
       </center>
     </td>
-  </tr>
-  <tr>
     <td  width="25%" align="center">
       <center>
         <img src="../assets/img/people_imgs/liuhaodong.jpg" width=180 />
@@ -179,11 +177,9 @@ nav_order: 3
         Academy of Military Science
       </center>
     </td>
-  </tr>
-  <tr>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/yangbowen.jpg" width=180 />
         <br/>
         <font>Bowen Yang</font><br/> 
         2025~<br/>
