@@ -17,7 +17,7 @@ nav_order: 3
         <br/>
         <font>Siyang Wu</font><br/> 
        Co-supervised 2023~<br/>
-       AI security risk detection
+       AI security risk detection<br/>
       </center>
     </td>
     <td  width="25%" align="center">
@@ -26,7 +26,7 @@ nav_order: 3
         <br/>
         <font>Jin Hu</font><br/>
         Co-supervised 2023~<br/>
-        Generative adversarial attack
+        Generative adversarial attack<br/>
       </center>
     </td>
     <td  width="25%" align="center">
@@ -35,7 +35,7 @@ nav_order: 3
         <br/>
         <font>Zhengquan Sun</font><br/>
         Co-supervised 2024~<br/>
-        Adversarial attack in Auto-driving
+        Adversarial attack <br/>in Auto-driving
       </center>
     </td>
     <td  width="25%" align="center">
@@ -44,7 +44,7 @@ nav_order: 3
         <br/>
         <font>Yumeng Song</font><br/>
         Co-supervised 2024~<br/>
-        Physical attack in lane detection
+        Physical attack <br/>in lane detection
       </center>
     </td>
   </tr>
@@ -56,7 +56,7 @@ nav_order: 3
         <br/>
         <font>Zhanxu Tian</font><br/> 
         Co-supervised 2025~<br/>
-        Explainable AI
+        Explainable AI<br/>
       </center>
     </td>
   </tr>
@@ -72,7 +72,7 @@ nav_order: 3
         <br/>
         <font>Yanni Xue</font><br/>
         Co-supervised 2023~<br/>
-        Adversarial attack and jailbreak for LLM
+        Adversarial attack and<br/> jailbreak for LLM
       </center>
     </td>
     <td  width="25%" align="center">
@@ -81,7 +81,7 @@ nav_order: 3
         <br/>
         <font>Long Xu</font><br/> 
         Co-supervised 2023~<br/>
-        Anti-customization
+        Anti-customization<br/>
       </center>
     </td>
   </tr>
@@ -93,7 +93,7 @@ nav_order: 3
         <br/>
         <font>Haojie Hao</font><br/>
         Co-supervised 2024~<br/>
-        Adversarial attack and jailbreak for VLM<br/>
+        Adversarial attack and<br/> jailbreak for VLM<br/>
       </center>
     </td>
     <td  width="25%" align="center">
