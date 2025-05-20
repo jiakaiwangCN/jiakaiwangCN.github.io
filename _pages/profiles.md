@@ -171,7 +171,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/liuhaodong.jpg" width=180 />
         <br/>
         <font>Haodong Liu</font><br/> 
-        2024.4~2025.6<br/>
+        2024.04~2025.06<br/>
         Academy of Military Science
       </center>
     </td>
@@ -180,8 +180,8 @@ nav_order: 3
         <img src="../assets/img/people_imgs/yangbowen.jpg" width=180 />
         <br/>
         <font>Bowen Yang</font><br/> 
-        2025~<br/>
-        Nanyang Technological University
+        2023.12~2024.08<br/>
+        University of Science and Technology of China
       </center>
     </td>
   </tr>
