@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 不如梦令（其一）
+title: 不如梦令（一）
 date: 2025-5-17 21:00:00
 description: 自我反思
 tags: 长短句
