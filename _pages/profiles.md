@@ -148,7 +148,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/zhangyichi.jpg" width=180 />
         <br/>
         <font>Yichi Zhang</font><br/>
         2023~<br/>
@@ -157,7 +157,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wengchenhao.jpg" width=180 />
         <br/>
         <font>Chenhao Weng</font><br/>
         2023~<br/>
