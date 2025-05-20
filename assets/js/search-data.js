@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academic_service/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/people/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "post-不如梦令-其二",
         
@@ -48,9 +55,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/rumengling2/";
           
         },
-      },{id: "post-不如梦令-其一",
+      },{id: "post-不如梦令-一",
         
-          title: "不如梦令（其一）",
+          title: "不如梦令（一）",
         
         description: "自我反思",
         section: "Posts",
