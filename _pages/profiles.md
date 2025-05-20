@@ -119,7 +119,7 @@ nav_order: 3
         <br/>
         <font>Jiachen Xu</font><br/> 
         Co-supervised 2025~<br/>
-        Adversarial patch detection
+        Adversarial patch detection<br/>　　　　
       </center>
     </td>
   </tr>
