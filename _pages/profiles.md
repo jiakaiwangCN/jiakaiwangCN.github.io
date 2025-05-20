@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the lab or group
+description: members of our group
 nav: true
 nav_order: 3
 
@@ -40,11 +40,11 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.JPG" width=180 />
+        <img src="../assets/img/people_imgs/songyumeng.JPG" width=180 />
         <br/>
         <font>Yumeng Song</font><br/>
         Co-supervised 2024~<br/>
-        Adversarial attack in Auto-driving
+        Physical attack in lane detection
       </center>
     </td>
   </tr>
@@ -137,8 +137,8 @@ nav_order: 3
         <img src="../assets/img/people_imgs/jiakaiwang.JPG" width=180 />
         <br/>
         <font>Yujun Zhang</font><br/> 
-        2023~<br/>
-        去向:Nanyang Technological University
+        2024.01~2024.11<br/>
+        去向:Beihang University
       </center>
     </td>
     <td  width="25%" align="center">
