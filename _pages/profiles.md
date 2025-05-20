@@ -22,7 +22,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Jin Hu</font><br/>
         Co-supervised 2023~<br/>
@@ -31,7 +31,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Zhengquan Sun</font><br/>
         Co-supervised 2024~<br/>
@@ -68,7 +68,7 @@ nav_order: 3
   <tr>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Yanni Xue</font><br/>
         Co-supervised 2023~<br/>
@@ -98,7 +98,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Xiaoxi Yu</font><br/> 
         Co-supervised 2024~<br/>
@@ -107,7 +107,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Linna Jing</font><br/>
         Co-supervised 2024~<br/>
@@ -152,7 +152,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Yichi Zhang</font><br/>
         2023~<br/>
@@ -161,7 +161,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Chenhao Weng</font><br/>
         2023~<br/>
@@ -185,7 +185,7 @@ nav_order: 3
   <tr>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/jiakaiwang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
         <br/>
         <font>Bowen Yang</font><br/> 
         2025~<br/>
