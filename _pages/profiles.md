@@ -138,7 +138,7 @@ nav_order: 3
         <br/>
         <font>Yujun Zhang</font><br/> 
         2024.01~2024.11<br/>
-        去向:Beihang University
+        Beihang University<br/> 
       </center>
     </td>
     <td  width="25%" align="center">
@@ -146,8 +146,8 @@ nav_order: 3
         <img src="../assets/img/people_imgs/chenyanqu.jpg" width=180 />
         <br/>
         <font>Yanqu Chen</font><br/>
-        2025.01~2025.09<br/>
-        去向:Nanyang Technological University
+        2024.01~2024.09<br/>
+        Nanyang Technological University
       </center>
     </td>
     <td  width="25%" align="center">
@@ -156,7 +156,7 @@ nav_order: 3
         <br/>
         <font>Yichi Zhang</font><br/>
         2023~<br/>
-        去向:Nanyang Technological University
+        Nanyang Technological University
       </center>
     </td>
     <td  width="25%" align="center">
@@ -165,7 +165,7 @@ nav_order: 3
         <br/>
         <font>Chenhao Weng</font><br/>
         2023~<br/>
-        去向:Nanyang Technological University
+        Nanyang Technological University
       </center>
     </td>
   </tr>
@@ -177,7 +177,7 @@ nav_order: 3
         <br/>
         <font>Haodong Liu</font><br/> 
         2024.4~2025.6<br/>
-        去向:Academy of Military Science
+        Academy of Military Science
       </center>
     </td>
   </tr>
@@ -189,7 +189,7 @@ nav_order: 3
         <br/>
         <font>Bowen Yang</font><br/> 
         2025~<br/>
-        去向:Nanyang Technological University
+        Nanyang Technological University
       </center>
     </td>
   </tr>
