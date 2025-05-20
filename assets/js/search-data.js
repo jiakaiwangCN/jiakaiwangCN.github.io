@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "members of the lab or group",
+          description: "members of our group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-不如梦令-其二",
+        },{id: "post-不如梦令-二",
         
-          title: "不如梦令（其二）",
+          title: "不如梦令（二）",
         
         description: "自我反思",
         section: "Posts",
