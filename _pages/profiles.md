@@ -17,7 +17,7 @@ nav_order: 3
         <br/>
         <font>Siyang Wu</font><br/> 
        Co-supervised 2023~<br/>
-       AI security risk detection<br/>
+       AI security risk detection<br/>　　　　
       </center>
     </td>
     <td  width="25%" align="center">
@@ -26,7 +26,7 @@ nav_order: 3
         <br/>
         <font>Jin Hu</font><br/>
         Co-supervised 2023~<br/>
-        Generative adversarial attack<br/>
+        Generative adversarial attack<br/>　　　　
       </center>
     </td>
     <td  width="25%" align="center">
@@ -56,7 +56,7 @@ nav_order: 3
         <br/>
         <font>Zhanxu Tian</font><br/> 
         Co-supervised 2025~<br/>
-        Explainable AI<br/>
+        Explainable AI<br/>　　　　
       </center>
     </td>
   </tr>
@@ -81,7 +81,7 @@ nav_order: 3
         <br/>
         <font>Long Xu</font><br/> 
         Co-supervised 2023~<br/>
-        Anti-customization<br/>
+        Anti-customization<br/>　　　　
       </center>
     </td>
   </tr>
@@ -102,7 +102,7 @@ nav_order: 3
         <br/>
         <font>Xiaoxi Yu</font><br/> 
         Co-supervised 2024~<br/>
-        Backdoor detection<br/>
+        Backdoor detection<br/>　　　　
       </center>
     </td>
     <td  width="25%" align="center">
@@ -111,7 +111,7 @@ nav_order: 3
         <br/>
         <font>Linna Jing</font><br/>
         Co-supervised 2024~<br/>
-        3D adversarial generation<br/>
+        3D adversarial generation<br/>　　　　
       </center>
     </td>
   </tr>
@@ -123,7 +123,7 @@ nav_order: 3
         <br/>
         <font>Jiachen Xu</font><br/> 
         Co-supervised 2025~<br/>
-        Adversarial patch detection<br/>
+        Adversarial patch detection<br/>　　　　
       </center>
     </td>
   </tr>
@@ -138,7 +138,7 @@ nav_order: 3
         <br/>
         <font>Yujun Zhang</font><br/> 
         2024.01~2024.11<br/>
-        Beihang University<br/> 
+        Beihang University<br/>　　　　
       </center>
     </td>
     <td  width="25%" align="center">
