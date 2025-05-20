@@ -22,7 +22,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/hujin.jpg" width=180 />
         <br/>
         <font>Jin Hu</font><br/>
         Co-supervised 2023~<br/>
@@ -31,7 +31,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/sunzhengquan.jpg" width=180 />
         <br/>
         <font>Zhengquan Sun</font><br/>
         Co-supervised 2024~<br/>
@@ -68,7 +68,7 @@ nav_order: 3
   <tr>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/xueyanni.jpg" width=180 />
         <br/>
         <font>Yanni Xue</font><br/>
         Co-supervised 2023~<br/>
@@ -98,7 +98,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/yuxiaoxi.jpg" width=180 />
         <br/>
         <font>Xiaoxi Yu</font><br/> 
         Co-supervised 2024~<br/>
@@ -107,7 +107,7 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wusiyang.jpg" width=180 />
+        <img src="../assets/img/people_imgs/jinglinna.jpg" width=180 />
         <br/>
         <font>Linna Jing</font><br/>
         Co-supervised 2024~<br/>
