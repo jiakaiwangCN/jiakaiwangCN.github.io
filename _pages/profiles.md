@@ -151,8 +151,8 @@ nav_order: 3
         <img src="../assets/img/people_imgs/zhangyichi.jpg" width=180 />
         <br/>
         <font>Yichi Zhang</font><br/>
-        2023~<br/>
-        Nanyang Technological University
+        2023.04~2024.09<br/>
+        Beihang University<br/>　　　　
       </center>
     </td>
     <td  width="25%" align="center">
