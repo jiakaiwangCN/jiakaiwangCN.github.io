@@ -26,7 +26,7 @@ nav_order: 3
         <br/>
         <font>Jin Hu</font><br/>
         Co-supervised 2023~<br/>
-        Generative adversarial attack<br/>
+        Generative adversarial attack<br/>　　　　
       </center>
     </td>
     <td  width="25%" align="center">
