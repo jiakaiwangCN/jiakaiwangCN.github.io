@@ -84,9 +84,6 @@ nav_order: 3
         Anti-customization<br/>　　　　
       </center>
     </td>
-  </tr>
-
-  <tr>
     <td  width="25%" align="center">
       <center>
         <img src="../assets/img/people_imgs/haohaojie.jpg" width=180 />
@@ -105,6 +102,8 @@ nav_order: 3
         Backdoor detection<br/>　　　　
       </center>
     </td>
+  </tr>
+  <tr>
     <td  width="25%" align="center">
       <center>
         <img src="../assets/img/people_imgs/jinglinna.jpg" width=180 />
@@ -114,9 +113,6 @@ nav_order: 3
         3D adversarial generation<br/>　　　　
       </center>
     </td>
-  </tr>
-
-  <tr>
     <td  width="25%" align="center">
       <center>
         <img src="../assets/img/people_imgs/xujiachen.jpg" width=180 />
@@ -168,6 +164,8 @@ nav_order: 3
         Nanyang Technological University
       </center>
     </td>
+  </tr>
+  <tr>
     <td  width="25%" align="center">
       <center>
         <img src="../assets/img/people_imgs/liuhaodong.jpg" width=180 />
