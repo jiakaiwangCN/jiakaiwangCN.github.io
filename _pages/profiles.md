@@ -68,24 +68,6 @@ nav_order: 3
   <tr>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/xueyanni.jpg" width=180 />
-        <br/>
-        <font>Yanni Xue</font><br/>
-        Co-supervised 2023~<br/>
-        Adversarial attack and<br/> jailbreak for LLM
-      </center>
-    </td>
-    <td  width="25%" align="center">
-      <center>
-        <img src="../assets/img/people_imgs/xulong.jpg" width=180 />
-        <br/>
-        <font>Long Xu</font><br/> 
-        Co-supervised 2023~<br/>
-        Anti-customization<br/>　　　　
-      </center>
-    </td>
-    <td  width="25%" align="center">
-      <center>
         <img src="../assets/img/people_imgs/haohaojie.jpg" width=180 />
         <br/>
         <font>Haojie Hao</font><br/>
@@ -102,8 +84,6 @@ nav_order: 3
         Backdoor detection<br/>　　　　
       </center>
     </td>
-  </tr>
-  <tr>
     <td  width="25%" align="center">
       <center>
         <img src="../assets/img/people_imgs/jinglinna.jpg" width=180 />
@@ -124,6 +104,32 @@ nav_order: 3
     </td>
   </tr>
 </table>
+
+## Alumni
+<table  rules="none">
+  <tr>
+    <td  width="25%" align="center">
+      <center>
+        <img src="../assets/img/people_imgs/xueyanni.jpg" width=180 />
+        <br/>
+        <font>Yanni Xue</font><br/>
+        Co-supervised 2023~<br/>
+        Adversarial attack and<br/> jailbreak for LLM
+      </center>
+    </td>
+    <td  width="25%" align="center">
+      <center>
+        <img src="../assets/img/people_imgs/xulong.jpg" width=180 />
+        <br/>
+        <font>Long Xu</font><br/> 
+        Co-supervised 2023~<br/>
+        Anti-customization<br/>　　　　
+      </center>
+    </td>
+  </tr>
+  
+</table>
+
 
 ## Undergranduate Students
 <table  rules="none">

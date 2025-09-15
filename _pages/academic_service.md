@@ -15,7 +15,7 @@ nav_order: 2
 
 **Chair:** [The 5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X](https://cvpr25-advml.github.io/). [The 4th Workshop on Practical Deep Learning (Practical-DL 2025)](https://practical-dl.github.io/)
 
-**Editor/Guest Editor:** <b class="super_emphasis">[Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z)</b>, <b class="super_emphasis">[Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/)</b>.  
+**Editor/Guest Editor:** <b class="super_emphasis">[Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z)</b>, <b class="super_emphasis">[Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/)</b>, <b class="super_emphasis">[Journal of Artificial Intelligence, Virtual Reality, and Human-Centered Computing](https://www.primeopenaccess.com/international-journals/journal-of-artificial-intelligence-virtual-reality-and-humancentered-computing-current-issue.asp)</b>.  
 
 #### [2024]
 
