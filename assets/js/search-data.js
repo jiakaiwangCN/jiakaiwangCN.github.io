@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-不如梦令-二",
+        },{id: "post-猛猛睡",
+        
+          title: "猛猛睡",
+        
+        description: "打熊油",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/xiongyoushi/";
+          
+        },
+      },{id: "post-三五七言",
+        
+          title: "三五七言",
+        
+        description: "伤春悲秋",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/357yan/";
+          
+        },
+      },{id: "post-不如梦令-二",
         
           title: "不如梦令（二）",
         
