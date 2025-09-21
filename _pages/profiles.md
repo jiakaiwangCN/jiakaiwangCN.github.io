@@ -113,7 +113,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/xueyanni.jpg" width=180 />
         <br/>
         <font>Yanni Xue</font><br/>
-        Co-supervised 2023~<br/>
+        Co-supervised 2023~2025.06<br/>
         Adversarial attack and<br/> jailbreak for LLM
       </center>
     </td>
@@ -122,7 +122,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/xulong.jpg" width=180 />
         <br/>
         <font>Long Xu</font><br/> 
-        Co-supervised 2023~<br/>
+        Co-supervised 2023~2025.06<br/>
         Anti-customization<br/>　　　　
       </center>
     </td>
@@ -163,17 +163,6 @@ nav_order: 3
     </td>
     <td  width="25%" align="center">
       <center>
-        <img src="../assets/img/people_imgs/wengchenhao.jpg" width=180 />
-        <br/>
-        <font>Chenhao Weng</font><br/>
-        2023~<br/>
-        Nanyang Technological University
-      </center>
-    </td>
-  </tr>
-  <tr>
-    <td  width="25%" align="center">
-      <center>
         <img src="../assets/img/people_imgs/liuhaodong.jpg" width=180 />
         <br/>
         <font>Haodong Liu</font><br/> 
@@ -181,6 +170,8 @@ nav_order: 3
         Academy of Military Science<br/>　　　　
       </center>
     </td>
+  </tr>
+  <tr>
     <td  width="25%" align="center">
       <center>
         <img src="../assets/img/people_imgs/yangbowen.jpg" width=180 />
