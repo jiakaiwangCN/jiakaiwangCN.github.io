@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "猛猛睡",
         
-        description: "打熊油",
+        description: "打熊油诗",
         section: "Posts",
         handler: () => {
           
@@ -303,6 +303,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-is-accepted-by-neurips-congrats-to-jin-hu",
           title: 'One paper is accepted by NeurIPS, congrats to Jin Hu! 🎉🎉🎉',
+          description: "",
+          section: "News",},{id: "news-i-was-selected-as-one-of-the-top-2-scientists-single-year-which-is-verifed-and-sourced-from-elsevier-and-stanford-university",
+          title: 'I was selected as one of the Top 2% Scientists (Single Year), which...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
