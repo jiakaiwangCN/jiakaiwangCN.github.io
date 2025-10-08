@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-猛猛睡",
-        
-          title: "猛猛睡",
-        
-        description: "打熊油诗",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/xiongyoushi/";
-          
-        },
-      },{id: "post-三五七言",
+        },{id: "post-三五七言",
         
           title: "三五七言",
         
@@ -64,6 +53,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/357yan/";
+          
+        },
+      },{id: "post-猛猛睡",
+        
+          title: "猛猛睡",
+        
+        description: "打熊油诗",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/xiongyoushi/";
           
         },
       },{id: "post-不如梦令-二",
@@ -306,6 +306,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-was-selected-as-one-of-the-top-2-scientists-single-year-which-is-verifed-and-sourced-from-elsevier-and-stanford-university",
           title: 'I was selected as one of the Top 2% Scientists (Single Year), which...',
+          description: "",
+          section: "News",},{id: "news-i-was-informed-as-a-reviewing-editor-of-springer-nature",
+          title: 'I was informed as a Reviewing Editor of Springer Nature. 🎉🎉🎉',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-ieee-tifs-congrats-to-tong-chen",
+          title: 'One paper is accepted by IEEE TIFS, congrats to Tong Chen!🎉🎉🎉',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
