@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-三五七言",
+        },{id: "post-写在30岁",
+        
+          title: "写在30岁",
+        
+        description: "一步又一步",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/writing30/";
+          
+        },
+      },{id: "post-三五七言",
         
           title: "三五七言",
         
