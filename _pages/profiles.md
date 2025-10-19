@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: People
 description: members of our group
-nav: true
+nav: false
 nav_order: 3
 
 ---
