@@ -11,7 +11,7 @@ nav_order: 2
 
 **Area Chair:** [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/Conferences/2026).
 
-**Reviewer:** TIP,TDSC,CVPR,ICCV,TIFS,ICML,ACL,ACM MM,AAAI,自动化学报.
+**Reviewer:** TIP,TDSC,CVPR,ICCV,TIFS,ICML,ACL,ACM MM,AAAI,Engineering Applications of Artificial Intelligence,自动化学报.
 
 **Chair:** [The 5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X](https://cvpr25-advml.github.io/). [The 4th Workshop on Practical Deep Learning (Practical-DL 2025)](https://practical-dl.github.io/)
 
