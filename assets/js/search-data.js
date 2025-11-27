@@ -56,7 +56,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/357yan/";
+            window.location.href = "/blog/2025/357words/";
           
         },
       },{id: "post-猛猛睡",
