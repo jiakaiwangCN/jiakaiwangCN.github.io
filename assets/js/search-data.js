@@ -37,7 +37,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-写在30岁",
+        },{id: "post-贺新郎",
+        
+          title: "贺新郎",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/godnowork/";
+          
+        },
+      },{id: "post-临江仙",
+        
+          title: "临江仙",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2025/";
+          
+        },
+      },{id: "post-调笑令",
+        
+          title: "调笑令",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/diaoxiaoling/";
+          
+        },
+      },{id: "post-行香子",
+        
+          title: "行香子",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/xingxiangzi/";
+          
+        },
+      },{id: "post-写在30岁",
         
           title: "写在30岁",
         
@@ -325,6 +369,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-4-paper-are-accepted-by-aaai-2026-congrats-to-haojie-hao-kewei-liao-xingyu-zheng-and-ruitao-li",
           title: '4 paper are accepted by AAAI 2026, congrats to Haojie Hao, Kewei Liao,...',
+          description: "",
+          section: "News",},{id: "news-1-paper-is-accepted-by-information-fusion-congrats-to-tong-chen",
+          title: '1 paper is accepted by Information Fusion, congrats to Tong Chen !🎉🎉🎉',
+          description: "",
+          section: "News",},{id: "news-5-paper-is-accepted-by-www-2026-pattern-recognition-icassp-2026-and-image-and-vision-computing-congrats-to-zhange-zhang-yuqi-zhang-and-tong-chen",
+          title: '5 paper is accepted by WWW 2026, Pattern Recognition, ICASSP 2026, and Image...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
