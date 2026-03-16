@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-贺新郎",
+        },{id: "post-间歇性迷茫",
+        
+          title: "间歇性迷茫",
+        
+        description: "我与我周旋久",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/missing/";
+          
+        },
+      },{id: "post-贺新郎",
         
           title: "贺新郎",
         
