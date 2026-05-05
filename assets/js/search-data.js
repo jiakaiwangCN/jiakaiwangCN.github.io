@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-间歇性迷茫",
+        },{id: "post-删除记忆",
+        
+          title: "删除记忆",
+        
+        description: "关于放下",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/forget/";
+          
+        },
+      },{id: "post-间歇性迷茫",
         
           title: "间歇性迷茫",
         
