@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-删除记忆",
+        },{id: "post-summer",
+        
+          title: "Summer",
+        
+        description: "生活随笔",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/summer/";
+          
+        },
+      },{id: "post-删除记忆",
         
           title: "删除记忆",
         
@@ -232,7 +243,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/midAug-copy/";
+            window.location.href = "/blog/2021/graduate/";
           
         },
       },{id: "post-春日",
