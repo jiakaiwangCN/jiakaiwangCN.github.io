@@ -9,17 +9,17 @@ nav_order: 2
 
 #### [2026]
 
-**Area Chair:** [NeurIPS 2026](https://neurips.cc/), ACL 2027, [ICML 2027](https://icml.cc/).
+**Area Chair:** [NeurIPS 2026](https://neurips.cc/), [ACL 2027](https://2027.aclweb.org/), [ICML 2027](https://icml.cc/).
 
-**Senior Program Committee:** AAAI 2027.
+**Senior Program Committee:** [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/).
 
-**Chair:** [The 6th Workshop of Adversarial Machine Learning on Computer Vision: Safety of VLA](https://cvpr26-advml.github.io/) (AdvML@CVPR, Chair/Challenge Chair 2022–2026); Workshop on Practical Deep Learning (Practical-DL, 2023–2025).
+**Chair:** [The 6th Workshop of Adversarial Machine Learning on Computer Vision: Safety of VLA](https://cvpr26-advml.github.io/) (AdvML@CVPR, Chair/Challenge Chair 2022–2026); [Workshop on Practical Deep Learning](https://practical-dl.github.io/) (Practical-DL, 2023–2025).
 
-**Editor/Guest Editor:** Reviewing Editor, Springer Nature (since 2025); Guest Editor, [Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z) (2024–2026); Editor, [Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/) (since 2024); Editor, [Journal of Artificial Intelligence, Virtual Reality and Human-Centered Computing](https://www.primeopenaccess.com/international-journals/journal-of-artificial-intelligence-virtual-reality-and-humancentered-computing-current-issue.asp) (since 2025); <b class="super_emphasis">[《智能安全》](http://znaq.ijournals.cn/)</b> (Youth Editorial Board); <b class="super_emphasis">[Data Research and Applications (DRA)](https://www.sciengine.com/DRA/home)</b> (Youth Think Tank, first cohort).
+**Editor/Guest Editor:** Reviewing Editor, [Springer Nature](https://www.springernature.com/) (since 2025); Guest Editor, [Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z) (2024–2026); Editor, [Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/) (since 2024); Editor, [Journal of Artificial Intelligence, Virtual Reality and Human-Centered Computing](https://www.primeopenaccess.com/international-journals/journal-of-artificial-intelligence-virtual-reality-and-humancentered-computing-current-issue.asp) (since 2025); <b class="super_emphasis">[《智能安全》](http://znaq.ijournals.cn/)</b> (Youth Editorial Board); <b class="super_emphasis">[Data Research and Applications (DRA)](https://www.sciengine.com/DRA/home)</b> (Youth Think Tank, first cohort).
 
-**Committee:** 中国网络空间安全学会人工智能安全治理专委会 主任助理; 中国仿真学会视觉计算与仿真专委会 委员.
+**Committee:** [中国网络空间安全学会人工智能安全治理专委会](https://www.ccss.org.cn/) 主任助理; [中国仿真学会视觉计算与仿真专委会](http://www.csf-sim.org.cn/article/1584) 委员.
 
-**Reviewer:** TDSC, TIFS, TIP, TNNLS, TCSVT, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACL, ACM MM.
+**Reviewer:** [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), [CVPR](https://cvpr.thecvf.com/), [ICCV](https://iccv.thecvf.com/), [ECCV](https://eccv.ecva.net/), [NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/), [IJCAI](https://www.ijcai.org/), [ACL](https://www.aclweb.org/), [ACM MM](https://www.acmmm.org/).
 
 #### [2025]
 
