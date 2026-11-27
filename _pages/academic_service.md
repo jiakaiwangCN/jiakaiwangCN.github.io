@@ -7,6 +7,20 @@ nav: true
 nav_order: 2
 ---
 
+#### [2026]
+
+**Area Chair:** [NeurIPS](https://neurips.cc/) (2025, 2026), [ICLR 2026](https://iclr.cc/Conferences/2026), ACL 2027, [ICML 2027](https://icml.cc/).
+
+**Senior Program Committee:** AAAI 2027.
+
+**Chair:** [The 6th Workshop of Adversarial Machine Learning on Computer Vision: Safety of VLA](https://cvpr26-advml.github.io/) (AdvML workshop series, 2022–2026); Workshop on Practical Deep Learning (Practical-DL, 2023–2025).
+
+**Editor/Guest Editor:** Reviewing Editor, Springer Nature (since 2025); Guest Editor, [Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z) (2024–2026); Editor, [Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/) (since 2024); Editor, [Journal of Artificial Intelligence, Virtual Reality and Human-Centered Computing](https://www.primeopenaccess.com/international-journals/journal-of-artificial-intelligence-virtual-reality-and-humancentered-computing-current-issue.asp) (since 2025); <b class="super_emphasis">[《智能安全》](http://znaq.ijournals.cn/)</b> (Youth Editorial Board); <b class="super_emphasis">[Data Research and Applications (DRA)](https://www.sciengine.com/DRA/home)</b> (Youth Think Tank, first cohort).
+
+**Committee:** 中国网络空间安全学会人工智能安全治理专委会 主任助理; 中国仿真学会视觉计算与仿真专委会 委员.
+
+**Reviewer:** TDSC, TIFS, TIP, TNNLS, TCSVT, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACL, ACM MM.
+
 #### [2025]
 
 **Area Chair:** [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/Conferences/2026).
@@ -15,7 +29,7 @@ nav_order: 2
 
 **Chair:** [The 5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X](https://cvpr25-advml.github.io/). [The 4th Workshop on Practical Deep Learning (Practical-DL 2025)](https://practical-dl.github.io/)
 
-**Editor/Guest Editor:** <b class="super_emphasis">[Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z)</b>, <b class="super_emphasis">[Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/)</b>, <b class="super_emphasis">[Journal of Artificial Intelligence, Virtual Reality, and Human-Centered Computing](https://www.primeopenaccess.com/international-journals/journal-of-artificial-intelligence-virtual-reality-and-humancentered-computing-current-issue.asp)</b>.  
+**Editor/Guest Editor:** <b class="super_emphasis">[Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z)</b>, <b class="super_emphasis">[Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/)</b>, <b class="super_emphasis">[Journal of Artificial Intelligence, Virtual Reality, and Human-Centered Computing](https://www.primeopenaccess.com/international-journals/journal-of-artificial-intelligence-virtual-reality-and-humancentered-computing-current-issue.asp)</b>; Reviewing Editor, Springer Nature.  
 
 #### [2024]
 
