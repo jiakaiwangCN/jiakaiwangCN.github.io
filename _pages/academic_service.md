@@ -9,11 +9,11 @@ nav_order: 2
 
 #### [2026]
 
-**Area Chair:** [NeurIPS](https://neurips.cc/) (2025, 2026), [ICLR 2026](https://iclr.cc/Conferences/2026), ACL 2027, [ICML 2027](https://icml.cc/).
+**Area Chair:** [NeurIPS 2026](https://neurips.cc/), ACL 2027, [ICML 2027](https://icml.cc/).
 
 **Senior Program Committee:** AAAI 2027.
 
-**Chair:** [The 6th Workshop of Adversarial Machine Learning on Computer Vision: Safety of VLA](https://cvpr26-advml.github.io/) (AdvML workshop series, 2022–2026); Workshop on Practical Deep Learning (Practical-DL, 2023–2025).
+**Chair:** [The 6th Workshop of Adversarial Machine Learning on Computer Vision: Safety of VLA](https://cvpr26-advml.github.io/) (AdvML@CVPR, Chair/Challenge Chair 2022–2026); Workshop on Practical Deep Learning (Practical-DL, 2023–2025).
 
 **Editor/Guest Editor:** Reviewing Editor, Springer Nature (since 2025); Guest Editor, [Electronics](https://www.mdpi.com/journal/electronics/special_issues/73PN6K8Y3Z) (2024–2026); Editor, [Computing and Artificial Intelligence (CAI)](https://ojs.acad-pub.com/index.php/CAI/) (since 2024); Editor, [Journal of Artificial Intelligence, Virtual Reality and Human-Centered Computing](https://www.primeopenaccess.com/international-journals/journal-of-artificial-intelligence-virtual-reality-and-humancentered-computing-current-issue.asp) (since 2025); <b class="super_emphasis">[《智能安全》](http://znaq.ijournals.cn/)</b> (Youth Editorial Board); <b class="super_emphasis">[Data Research and Applications (DRA)](https://www.sciengine.com/DRA/home)</b> (Youth Think Tank, first cohort).
 
@@ -23,7 +23,7 @@ nav_order: 2
 
 #### [2025]
 
-**Area Chair:** [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/Conferences/2026).
+**Area Chair:** [NeurIPS 2025](https://neurips.cc/), [ICLR 2025](https://iclr.cc/Conferences/2025).
 
 **Reviewer:** TIP,TDSC,CVPR,ICCV,TIFS,ICML,ACL,ACM MM,AAAI,Engineering Applications of Artificial Intelligence,自动化学报.
 
